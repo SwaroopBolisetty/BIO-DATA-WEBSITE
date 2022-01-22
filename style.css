@@ -1,0 +1,140 @@
+body{
+  background:linear-gradient(to right,#6867AC,#A267AC,#CE7BB0,#FFAD60);
+}
+.main ul{
+  padding:25px:
+  position:;
+  text-align:right;
+}
+.main ul li{
+  display:inline-block;
+  margin:0 20px;
+}
+.main ul li a{
+  font-size:30px;
+  text-decoration: none;
+  color:red;
+}
+.main p{
+  text-align: center;
+  font-size: 30px;
+  padding-top: 50px;
+  font-style: italic;
+  color:black;
+}
+.main img{
+  width:150px;
+  height:200px;
+  padding-left: 10px;
+}
+
+.about img{
+  padding-left: 600px;
+  width: 150px;
+  height: 200px;
+}
+.about h1{
+  text-align: center;
+  font-style: italic;
+  color:#06FF00;
+}
+.about hr{
+  border-color: brown;
+  border-style: none;
+  border-top-style:groove;
+  border-width:2px;
+
+  width:30%;
+}
+.about p {
+  font-size: 25px;
+  text-align: center;
+}
+.about h2{
+  text-align: center;
+}
+.contact{
+  padding-top: 20px;
+}
+.contact h1{
+  font-style: italic;
+  font-size: 50px;
+  text-align: center;
+  color:green;
+}
+.contact p{
+  text-align:center;
+  font-size:30px;
+  font-style: italic;
+  line-height: 1.5;
+  color:#4C0027;
+  }
+  .contact button{
+    color:black;
+    background-color: brown;
+  font-size: 20px;
+    border-radius: 50px;
+
+  }
+  .contact img{
+    width:100px;
+    height:100px;
+    padding-left: 550px;
+  }
+  .contact a{
+    text-decoration:underline;
+    font-size:20px;
+    color:white;
+    font-style: italic;
+  }
+  .about a{
+    text-decoration:underline;
+    font-size:20px;
+    color:white;
+    font-style: italic;
+  }
+  .about button{
+    color:black;
+    background-color: brown;
+  font-size: 20px;
+    border-radius: 50px;
+  }
+
+.links{
+  text-align: center;
+  line-height: 1;
+}
+.links h2{
+  font-size: 35px;
+}
+.links button{
+  color:black;
+  background-color: yellow;
+font-size: 30px;
+  border-radius: 50px;
+}
+
+.skills{
+  text-align: center;
+font-size: 30px;
+}
+.skills hr{
+  border-color: brown;
+  border-style: none;
+  border-top-style:groove;
+  border-width:2px;
+  width:45%;
+}
+.skills button{
+  color:black;
+  background-color: brown;
+font-size: 20px;
+  border-radius: 50px;
+margin-right: 3000px;
+}
+
+.skills img{
+  width:150px;
+  height:150px;
+  padding-right: 40px;
+}
